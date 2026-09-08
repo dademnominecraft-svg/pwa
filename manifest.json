@@ -1,19 +1,19 @@
 {
-  "name": "Tablet PWA",
-  "short_name": "MyPWA",
-  "start_url": "./index.html",
+  "name": "YoutubeLoYoutubeGo",
+  "short_name": "YouTube",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196F3",
   "icons": [
     {
-      "src": "youtubeLo",
+      "src": "youtubeLo.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "youtubeGo",
+      "src": "youtubeGo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
